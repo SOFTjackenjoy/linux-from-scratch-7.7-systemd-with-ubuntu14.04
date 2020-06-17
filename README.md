@@ -1,3 +1,9 @@
+<p>
+    This is html \<p\>
+</p>
+
+
+
 # linux-from-scratch-7.7-systemd-with-ubuntu14.04
 7.7-systemd版本的linux from scratch的一次实践，宿主系统是ubuntu12.04，硬件是amd的物理主机上的虚拟机：VMware12。   
 
